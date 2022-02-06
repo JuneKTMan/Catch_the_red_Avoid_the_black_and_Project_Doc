@@ -44,7 +44,7 @@ pip install pysqlite3
 4. Run the Project folder > 2Dgame+SQLiteDB> Main2_1.py
 
 
-## Instructure of the game
+## Instruction of the game
 1. Run the Main2_1.py. and you will see the Tkinter window show up if run successfully
 2. Use the left and right keys to control the paddle
 3. Control the paddle to catch the red ping pong, the user will receive points by catching the red ping pong.
